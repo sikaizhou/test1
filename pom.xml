@@ -337,7 +337,7 @@
         <dependency>
             <groupId>org.eclipse.paho</groupId>
             <artifactId>org.eclipse.paho.client.mqttv3</artifactId>
-            <version>1.0.2</version>
+            <version>1.2.1</version>
         </dependency>
         <!--        <dependency>-->
         <!--            <groupId>com.argrace.dingding</groupId>-->
@@ -405,7 +405,7 @@
         <dependency>
             <groupId>org.eclipse.paho</groupId>
             <artifactId>org.eclipse.paho.client.mqttv3</artifactId>
-            <version>1.1.0</version>
+            <version>1.2.1</version>
         </dependency>
         <!---->
         <dependency>
